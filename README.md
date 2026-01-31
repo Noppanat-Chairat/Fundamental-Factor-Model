@@ -30,6 +30,9 @@ The portfolio analysis for the 2020-2025 period yielded the following:
 
 The model successfully identifies high-quality value stocks. While the current alpha is neutral after accounting for market factors, the systematic exposure (Beta) and Value tilt (HML) align perfectly with the investment thesis, proving the model's structural integrity.
 
+### Fama-French Regression Output
+![Fama-French Analysis](regression_results.png)
+
 ## 📂 Project Structure
 ```text
 ├── data/
@@ -40,4 +43,5 @@ The model successfully identifies high-quality value stocks. While the current a
 │   ├── ranking_model.py # Composite score logic
 │   └── analyzer.py      # Fama-French regression & stats
 └── README.md
+
 
