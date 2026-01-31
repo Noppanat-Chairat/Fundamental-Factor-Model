@@ -25,7 +25,7 @@ Before moving to AI, the model's fundamental thesis was validated using the **Fa
 ![Fama-French Analysis](regression_results.png)
 
  ### AI (Random Forest) Output
-![AI Forecast Analysis](regression_results.png)
+![AI Forecast Analysis](AI_Forecast_Result.png)
 
 ## 🛠️ Installation & Usage
 
@@ -54,6 +54,7 @@ src/ml_model.py: Interactive Machine Learning prediction engine.
 src/ranking_model.py: Fundamental scoring and stock selection logic.
 
 data/processed/: Stored financial ratios and ranked stock data.
+
 
 
 
